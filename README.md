@@ -2,4 +2,5 @@
 Test
 
 This is a repository for learning GitHub.
-\u00A9 Haixiang Zhou
+
+Feb. 21, 2015
